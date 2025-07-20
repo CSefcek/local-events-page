@@ -76,8 +76,8 @@ h1 {
     justify-content: space-between;
     align-items: center;
     gap: .5 rem;
-    padding: 1rem 3rem;
+    padding: 3rem 3rem;
     background: black;
     color: ivory;
-    font-size: .875rem;
+    font-size: 1rem;
 }
