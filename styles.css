@@ -27,10 +27,21 @@ body {
     
 }
 
+.hero {
+    background: url(images/skyline-mod.png);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: white;
+    text-align: center;
+}
+
 h1 {
     margin-top: 0;
     padding: 70px;
-    background: linear-gradient(90deg,#E65C19, #B51B75, #640D6B);
+    /*background: linear-gradient(90deg,#E65C19, #B51B75, #640D6B);*/
     text-align: center;
     
     
