@@ -20,9 +20,6 @@
     padding: 2rem 0.5rem;
 }
 
-
-
-
 body {
     margin: 0px;
     background: linear-gradient(90deg,#E65C19, #B51B75, #640D6B);
@@ -92,13 +89,6 @@ h1 {
     padding: 2rem; */
 }
 
-/* @media (max-width: 607px) {
-    .event-list {
-        grid-template-columns: repeat(auto-fit, minmax(var(--card-min)));
-        padding: 1rem;
-    }
-} */
-
 
 .card {
     display: flex;
@@ -122,10 +112,6 @@ h1 {
     }
         
  }
-
-
-
-
 
 
 
